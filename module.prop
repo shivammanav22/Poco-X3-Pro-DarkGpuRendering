@@ -1,6 +1,6 @@
-id=smext
-name=Unlock 90FPS
+id=$hivamManav
+name=Poco X3 Pro DarkGpuRendering
 version=v1.0
-versionCode=7
-author=hehehehesen
-description=(tidak ada info)
+versionCode=1.0
+author=$hivamManav
+description=Rendering related modifications to improve user experience 
