@@ -1,0 +1,8 @@
+ro.product.system.model=GM1917
+ro.product.model=GM1917
+hw3d.force=1
+hw2d.force=1
+ro.surface_flinger.max_frame_buffer_acquired_buffers=1
+vendor.debug.gr.numframebuffers=2
+vendor.debug.egl.numframebuffers=2
+windowsmgr.max_events_per_sec=240
