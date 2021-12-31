@@ -1,6 +1,6 @@
-id=$hivamManav
-name=Poco X3 Pro DarkGpuRendering
-version=v1.0
-versionCode=1.0
-author=$hivamManav
-description=Rendering related modifications to improve user experience 
+id=ShivamManav_DGPUR
+name=Poco X3 Pro DarkGpuRendering By @xda $hivamManav
+version=v2.1
+versionCode=1
+author=xda_$hivamManav
+description=Gpu modifications & single frame buffering for better user experience & egl hw switcher & OnePlus GPU drivers & HAL Modified 
