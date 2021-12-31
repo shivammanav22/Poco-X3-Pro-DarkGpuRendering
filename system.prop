@@ -1,0 +1,23 @@
+#Force 3D 2D rendering
+hw3d.force=1
+hw2d.force=1
+
+#Surface flinger (NUM_FRAME_BUFFER)
+ro.surface_flinger.max_frame_buffer_acquired_buffers=2
+
+vendor.debug.gr.numframebuffers=2
+vendor.debug.egl.numframebuffers=2
+windowsmgr.max_events_per_sec=240
+
+#GPU ACCLERATION
+vendor.debug.egl.hw=1
+debug.egl.hw=1
+
+#Force 120hz on all apps and disable dynamic fps
+system.user.refresh.rate=1
+ro.vendor.dfps.enable=0
+ro.vendor.smart_dfps.enable=0
+
+#HIGH RISK FEATURES use only for Gaming 
+#vendor.debug.egl.swapinterval=0
+#vendor.debug.gr.swapinterval=0
